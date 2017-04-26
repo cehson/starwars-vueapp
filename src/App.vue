@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    dfgdfgdf
-    <hello></hello>
+
+    
   </div>
 </template>
 
@@ -11,7 +11,7 @@ import Hello from './components/Hello'
 export default {
   name: 'app',
   components: {
-    Hello
+   
   }
 }
 </script>
